@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: a0def85d10a2c9a4e9ac26b196c11ebc
+timeCreated: 1478195224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base2
+    100002: ChamferBox001
+    100004: Contr2
+    100006: Contr3
+    100008: Control0
+    100010: Dulo
+    100012: Object024
+    100014: Object025
+    100016: Object026
+    100018: OpticalAimBase
+    100020: Rot2
+    100022: //RootNode
+    100024: Object028
+    100026: Object030
+    100028: Object031
+    100030: Object032
+    100032: Object033
+    400000: Base2
+    400002: ChamferBox001
+    400004: Contr2
+    400006: Contr3
+    400008: Control0
+    400010: Dulo
+    400012: Object024
+    400014: Object025
+    400016: Object026
+    400018: OpticalAimBase
+    400020: Rot2
+    400022: //RootNode
+    400024: Object028
+    400026: Object030
+    400028: Object031
+    400030: Object032
+    400032: Object033
+    2300000: Base2
+    2300002: ChamferBox001
+    2300004: Contr2
+    2300006: Contr3
+    2300008: Control0
+    2300010: Dulo
+    2300012: Object025
+    2300014: Object026
+    2300016: OpticalAimBase
+    2300018: Rot2
+    2300020: Object030
+    2300022: Object031
+    2300024: Object032
+    2300026: Object033
+    3300000: Base2
+    3300002: ChamferBox001
+    3300004: Contr2
+    3300006: Contr3
+    3300008: Control0
+    3300010: Dulo
+    3300012: Object025
+    3300014: Object026
+    3300016: OpticalAimBase
+    3300018: Rot2
+    3300020: Object030
+    3300022: Object031
+    3300024: Object032
+    3300026: Object033
+    4300000: OpticalAimBase
+    4300002: Base2
+    4300004: ChamferBox001
+    4300006: Dulo
+    4300008: Object025
+    4300010: Rot2
+    4300012: Control0
+    4300014: Contr2
+    4300016: Contr3
+    4300018: Object026
+    4300020: Object030
+    4300022: Object031
+    4300024: Object032
+    4300026: Object033
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

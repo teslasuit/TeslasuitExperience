@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 33b45b509f345cd43b05f7f5eb384803
+timeCreated: 1479311130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aim1
+    100002: AimMech
+    100004: Base
+    100006: Dulo
+    100008: FlashLights
+    100010: //RootNode
+    100012: Wight
+    100014: M1
+    100016: m2
+    100018: b
+    100020: b001
+    100022: b002
+    100024: b003
+    100026: b004
+    100028: b005
+    100030: b006
+    100032: BullPistol001
+    100034: BullPistol002
+    100036: BullPistol003
+    100038: BullPistol004
+    100040: BullPistol005
+    100042: BullPistol006
+    100044: Gilza
+    100046: Gilza001
+    100048: Gilza002
+    100050: Gilza003
+    100052: Gilza004
+    100054: Gilza005
+    100056: Gilza006
+    100058: 2
+    100060: 3
+    100062: magazin
+    100064: 4
+    400000: Aim1
+    400002: AimMech
+    400004: Base
+    400006: Dulo
+    400008: FlashLights
+    400010: //RootNode
+    400012: Wight
+    400014: M1
+    400016: m2
+    400018: b
+    400020: b001
+    400022: b002
+    400024: b003
+    400026: b004
+    400028: b005
+    400030: b006
+    400032: BullPistol001
+    400034: BullPistol002
+    400036: BullPistol003
+    400038: BullPistol004
+    400040: BullPistol005
+    400042: BullPistol006
+    400044: Gilza
+    400046: Gilza001
+    400048: Gilza002
+    400050: Gilza003
+    400052: Gilza004
+    400054: Gilza005
+    400056: Gilza006
+    400058: 2
+    400060: 3
+    400062: magazin
+    400064: 4
+    2300000: Aim1
+    2300002: AimMech
+    2300004: Base
+    2300006: Dulo
+    2300008: FlashLights
+    2300010: Wight
+    2300012: M1
+    2300014: m2
+    2300016: BullPistol001
+    2300018: BullPistol002
+    2300020: BullPistol003
+    2300022: BullPistol004
+    2300024: BullPistol005
+    2300026: BullPistol006
+    2300028: Gilza
+    2300030: Gilza001
+    2300032: Gilza002
+    2300034: Gilza003
+    2300036: Gilza004
+    2300038: Gilza005
+    2300040: Gilza006
+    2300042: 2
+    2300044: 3
+    2300046: 4
+    3300000: Aim1
+    3300002: AimMech
+    3300004: Base
+    3300006: Dulo
+    3300008: FlashLights
+    3300010: Wight
+    3300012: M1
+    3300014: m2
+    3300016: BullPistol001
+    3300018: BullPistol002
+    3300020: BullPistol003
+    3300022: BullPistol004
+    3300024: BullPistol005
+    3300026: BullPistol006
+    3300028: Gilza
+    3300030: Gilza001
+    3300032: Gilza002
+    3300034: Gilza003
+    3300036: Gilza004
+    3300038: Gilza005
+    3300040: Gilza006
+    3300042: 2
+    3300044: 3
+    3300046: 4
+    4300000: Wight
+    4300002: Base
+    4300004: FlashLights
+    4300006: Dulo
+    4300008: AimMech
+    4300010: Aim1
+    4300012: M1
+    4300014: m2
+    4300016: Gilza
+    4300018: BullPistol001
+    4300020: Gilza001
+    4300022: BullPistol002
+    4300024: Gilza002
+    4300026: BullPistol003
+    4300028: Gilza003
+    4300030: BullPistol004
+    4300032: Gilza004
+    4300034: BullPistol005
+    4300036: Gilza005
+    4300038: BullPistol006
+    4300040: Gilza006
+    4300042: 2
+    4300044: 3
+    4300046: 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 20
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
