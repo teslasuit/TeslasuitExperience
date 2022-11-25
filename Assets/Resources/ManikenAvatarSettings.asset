@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f90f23aa3c631946a3de41fe0b66c16, type: 3}
+  m_Name: ManikenAvatarSettings
+  m_EditorClassIdentifier: 
+  m_avatar: {fileID: 9000000, guid: 5c333e6c31480a44ead0e83d4605f156, type: 3}
+  m_armsTPoseToIPoseDegrees: 83
+  m_bones:
+  - boneIndex: 0
+    boneName: Bip002 Pelvis
+    iPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPosePosition: {x: -0.000000012514591, y: 0.8956054, z: -0.0034221576}
+  - boneIndex: 1
+    boneName: Bip002 L Thigh
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: -0.0965024, y: 0.8956369, z: -0.0059332415}
+  - boneIndex: 2
+    boneName: Bip002 R Thigh
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: 0.09650211, y: 0.895637, z: -0.0059330133}
+  - boneIndex: 3
+    boneName: Bip002 L Calf
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: -0.09650231, y: 0.4733301, z: -0.0059331614}
+  - boneIndex: 4
+    boneName: Bip002 R Calf
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: 0.0965022, y: 0.47333023, z: -0.0059329052}
+  - boneIndex: 5
+    boneName: Bip002 L Foot
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: -0.09650223, y: 0.062340915, z: -0.005933072}
+  - boneIndex: 6
+    boneName: Bip002 R Foot
+    iPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPoseRotation: {x: 0.50000036, y: 0.50000054, z: 0.49999958, w: 0.49999958}
+    tPosePosition: {x: 0.096502274, y: 0.062340975, z: -0.0059328754}
+  - boneIndex: 7
+    boneName: Bip002 Spine
+    iPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPosePosition: {x: -0.00000015307124, y: 0.9887656, z: -0.0035059617}
+  - boneIndex: 8
+    boneName: Bip002 Spine1
+    iPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPoseRotation: {x: 0.49999964, y: -0.49999964, z: -0.50000036, w: 0.5000005}
+    tPosePosition: {x: -0.00000016554166, y: 1.0940796, z: -0.0035898404}
+  - boneIndex: 12
+    boneName: Bip002 L Clavicle
+    iPoseRotation: {x: 0.70710695, y: -0.0000005324672, z: -0.0000006218744, w: -0.7071068}
+    tPoseRotation: {x: 0.70710695, y: -0.0000005324672, z: -0.0000006218744, w: -0.7071068}
+    tPosePosition: {x: -0.028354023, y: 1.4100556, z: -0.0037527417}
+  - boneIndex: 13
+    boneName: Bip002 R Clavicle
+    iPoseRotation: {x: 0.00000061470035, y: -0.7071068, z: 0.70710695, w: 0.0000005324672}
+    tPoseRotation: {x: 0.00000061470035, y: -0.7071068, z: 0.70710695, w: 0.0000005324672}
+    tPosePosition: {x: 0.028353618, y: 1.4100556, z: -0.0037527082}
+  - boneIndex: 14
+    boneName: Bip002 L UpperArm
+    iPoseRotation: {x: 0.52959216, y: 0.46854284, z: -0.46854365, w: -0.5295913}
+    tPoseRotation: {x: 0.70710695, y: -0.0000005324672, z: -0.0000006218744, w: -0.7071068}
+    tPosePosition: {x: -0.20804891, y: 1.4100556, z: -0.00375245}
+  - boneIndex: 15
+    boneName: Bip002 R UpperArm
+    iPoseRotation: {x: -0.46854272, y: -0.5295921, z: 0.52959144, w: 0.46854365}
+    tPoseRotation: {x: 0.00000061470035, y: -0.7071068, z: 0.70710695, w: 0.0000005324672}
+    tPosePosition: {x: 0.20804852, y: 1.4100556, z: -0.0037529403}
+  - boneIndex: 16
+    boneName: Bip002 L Forearm
+    iPoseRotation: {x: 0.52959216, y: 0.46854284, z: -0.46854365, w: -0.5295913}
+    tPoseRotation: {x: 0.70710695, y: -0.0000005324672, z: -0.0000006218744, w: -0.7071068}
+    tPosePosition: {x: -0.4510816, y: 1.4100556, z: -0.0037520486}
+  - boneIndex: 17
+    boneName: Bip002 R Forearm
+    iPoseRotation: {x: -0.46854272, y: -0.5295921, z: 0.52959144, w: 0.46854365}
+    tPoseRotation: {x: 0.00000061470035, y: -0.7071068, z: 0.70710695, w: 0.0000005324672}
+    tPosePosition: {x: 0.45108125, y: 1.4100559, z: -0.0037533417}
+  - boneIndex: 18
+    boneName: Bip002 L Hand
+    iPoseRotation: {x: -0.7489559, y: -0.66262025, z: 0.00000059680576, w: -0.0000005678009}
+    tPoseRotation: {x: -1.0000002, y: -0.000000029802376, z: 0.0000008232173, w: -0.000000029802269}
+    tPosePosition: {x: -0.69411427, y: 1.4100555, z: -0.003751707}
+  - boneIndex: 19
+    boneName: Bip002 R Hand
+    iPoseRotation: {x: 0.0000006363009, y: -0.0000005231597, z: 0.7489559, w: 0.6626202}
+    tPoseRotation: {x: 0.0000008232173, y: 0.000000029802269, z: 1.0000002, w: -0.000000029802376}
+    tPosePosition: {x: 0.6941139, y: 1.4100559, z: -0.0037536833}
+  m_characterModel: {fileID: 100120, guid: 5c333e6c31480a44ead0e83d4605f156, type: 3}

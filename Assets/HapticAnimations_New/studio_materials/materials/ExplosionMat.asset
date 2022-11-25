@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c9be7d435780614bb64c7dcc3cda1bc, type: 3}
+  m_Name: ExplosionMat
+  m_EditorClassIdentifier: 
+  m_bytes: 
+  m_assetType: 0
+  m_hapticEffect: {fileID: 11400000, guid: b23b509574c8fc4438e8fccd1c4cd347, type: 3}
+  m_touchSequence: {fileID: 11400000, guid: b8e6b56ddcbd309428128804eecf5e77, type: 3}

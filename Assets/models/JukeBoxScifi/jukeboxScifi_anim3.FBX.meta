@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: b88aca33d93e4844682dc27ec58e4864
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: button1
+    100002: button2
+    100004: button3
+    100006: button4
+    100008: button5
+    100010: button6
+    100012: button7
+    100014: button8
+    100016: Crowd001
+    100018: Crowd002
+    100020: Crowd003
+    100022: Crowd004
+    100024: Crowd005
+    100026: Crowd006
+    100028: Defuzors
+    100030: jukeBoxDisplay
+    100032: //RootNode
+    100034: Object003
+    100036: Object004
+    100038: Object007
+    100040: Object008
+    100042: Object009
+    100044: Object010
+    100046: Stop
+    400000: button1
+    400002: button2
+    400004: button3
+    400006: button4
+    400008: button5
+    400010: button6
+    400012: button7
+    400014: button8
+    400016: Crowd001
+    400018: Crowd002
+    400020: Crowd003
+    400022: Crowd004
+    400024: Crowd005
+    400026: Crowd006
+    400028: Defuzors
+    400030: jukeBoxDisplay
+    400032: //RootNode
+    400034: Object003
+    400036: Object004
+    400038: Object007
+    400040: Object008
+    400042: Object009
+    400044: Object010
+    400046: Stop
+    2100000: buttons_mat
+    2100002: display_mat
+    2100004: dynamics_mat
+    2100006: jukeBoxScifi_mat
+    2100008: emission
+    2300000: button1
+    2300002: button2
+    2300004: button3
+    2300006: button4
+    2300008: button5
+    2300010: button6
+    2300012: button7
+    2300014: button8
+    2300016: jukeBoxDisplay
+    2300018: Object003
+    2300020: Object007
+    2300022: Object009
+    2300024: Object010
+    2300026: Stop
+    3300000: button1
+    3300002: button2
+    3300004: button3
+    3300006: button4
+    3300008: button5
+    3300010: button6
+    3300012: button7
+    3300014: button8
+    3300016: jukeBoxDisplay
+    3300018: Object003
+    3300020: Object007
+    3300022: Object009
+    3300024: Object010
+    3300026: Stop
+    4300000: Stop
+    4300002: button1
+    4300004: button2
+    4300006: button3
+    4300008: button4
+    4300010: button5
+    4300012: button6
+    4300014: button7
+    4300016: button8
+    4300018: jukeBoxDisplay
+    4300020: Defuzors
+    4300022: Object003
+    4300024: Object007
+    4300026: Object009
+    4300028: Object010
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Defuzors
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buttons_mat
+    second: {fileID: 2100000, guid: 655a83d0b26557843acca32f5d280b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display_mat
+    second: {fileID: 2100000, guid: f004705f0e444944a8f9602c17de3729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dynamics_mat
+    second: {fileID: 2100000, guid: 4f06ee297f86a9e4a93f04b7b2bf7524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emission
+    second: {fileID: 2100000, guid: 8e5e62ff6d08fb749b087871a20c6610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jukeBoxScifi_mat
+    second: {fileID: 2100000, guid: 7965e7f259146bb44864f42d491b0160, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

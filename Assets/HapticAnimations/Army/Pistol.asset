@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a13833fd837557c41abc11921a97bd42, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  path: Assets/HapticAnimations/Army/Pistol.haptic_asset
+  bytes: 350003006964002f416e696d6174696f6e2f506973746f6c0074797065007072657365740076657273696f6e00302e322e352e30002f416e696d6174696f6e2f506973746f6c006400000002000e0038ff18ff30ff0dff28fffdfe1fffe7fe12ffa6fe11ff8ffe5eff90fe69ffb6fe73ffdffe77ffedfe84ff01ff96ff1dff9bff26ff40ff26ff01010031006464000000006400000000090040ff26ff9bff26ffa2ff34ffa6ff47ffa7ff53ffabff72ff53ff72ff4aff60ff48ff51ff010100260064500000000064000000000000
+  is_static: 0
+  is_looped: 0

@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5334889608746996556
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1439526148016002, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_Name
+      value: IceMagic Variant V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.7157
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156589549105710, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23461236911791160, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114375710256998832, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: viewIdField
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114375710256998832, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: instantiationId
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114375710256998832, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 5449227020240336526}
+    - target: {fileID: 114375710256998832, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[1]
+      value: 
+      objectReference: {fileID: 5449070068454686628}
+    - target: {fileID: 114315188271808628, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: views.Array.data[0]
+      value: 
+      objectReference: {fileID: 5449089258218633980}
+    - target: {fileID: 114541456067384386, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: particles
+      value: 
+      objectReference: {fileID: 5245544566063450548}
+    - target: {fileID: 114703277318028836, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: OnGrab.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5449279741296789262}
+    - target: {fileID: 114703277318028836, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: OnGrab.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 5449279741296789262}
+    - target: {fileID: 114703277318028836, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: OnUngrab.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5449279741296789262}
+    - target: {fileID: 23845982019163808, guid: 4d6388add12610649b0feafdfac23ede,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d6388add12610649b0feafdfac23ede, type: 3}
+--- !u!114 &5449089258218633980 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114375710256998832, guid: 4d6388add12610649b0feafdfac23ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 5334889608746996556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5449227020240336526 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114523825020544450, guid: 4d6388add12610649b0feafdfac23ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 5334889608746996556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5449070068454686628 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114746743798492392, guid: 4d6388add12610649b0feafdfac23ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 5334889608746996556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64179f3720bbfe947b7724caa67b7c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5449279741296789262 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114541456067384386, guid: 4d6388add12610649b0feafdfac23ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 5334889608746996556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a6f2ad46c7544348a8a0f29e67b177c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!198 &5245544566063450548 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 198931515516181240, guid: 4d6388add12610649b0feafdfac23ede,
+    type: 3}
+  m_PrefabInstance: {fileID: 5334889608746996556}
+  m_PrefabAsset: {fileID: 0}
