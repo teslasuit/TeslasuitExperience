@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ceb25147ffa274291f87c743bf90db, type: 3}
+  m_Name: StomachTop
+  m_EditorClassIdentifier: 
+  path: Assets/Teslasuit/HapticAssets/Mapping/Polygons/Teslaboy/Stomach/StomachTop.polygon
+  bytes: 0800f5feed0015ff070150ffea0087fff700b5fff000d8ff650056ff6400e4fe6200
+  points:
+  - x: -267
+    y: 237
+  - x: -235
+    y: 263
+  - x: -176
+    y: 234
+  - x: -121
+    y: 247
+  - x: -75
+    y: 240
+  - x: -40
+    y: 101
+  - x: -170
+    y: 100
+  - x: -284
+    y: 98

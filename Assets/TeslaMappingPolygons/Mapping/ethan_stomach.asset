@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c08599691a6195d4fa007f7fc7669703, type: 3}
+  m_Name: ethan_stomach
+  m_EditorClassIdentifier: 
+  path: Assets/Teslasuit/HapticAssets/Mapping/ethan_stomach.bin
+  bytes: 310003006d617070696e675f76657273696f6e00300074797065006d617070696e670076657273696f6e00302e312e312e300008000000000000000100000000000200010018009c01d3f9690222f9f20263f98f0387f91b0467f9800422f97105cbf93d056cfa7105e4fab90511fbb905e6fbb505a7fcb90543fdf4046cfd2704f4fd8b0314fee202f8fd06026dfd340157fd34019bfc3801eefb3c0115fb9801e4fad00168fa020000000000010000000000030000000000040000000000050000000000060000000000070000000000

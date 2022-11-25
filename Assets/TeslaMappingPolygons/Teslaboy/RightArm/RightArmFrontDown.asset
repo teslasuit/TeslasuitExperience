@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ceb25147ffa274291f87c743bf90db, type: 3}
+  m_Name: RightArmFrontDown
+  m_EditorClassIdentifier: 
+  path: Assets/Teslasuit/HapticAssets/Mapping/Polygons/Teslaboy/RightArm/RightArmFrontDown.polygon
+  bytes: 0400ca0053fed50087fe55018cfe510135fe
+  points:
+  - x: 202
+    y: -429
+  - x: 213
+    y: -377
+  - x: 341
+    y: -372
+  - x: 337
+    y: -459

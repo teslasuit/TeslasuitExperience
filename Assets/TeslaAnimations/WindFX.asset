@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a13833fd837557c41abc11921a97bd42, type: 3}
+  m_Name: WindFX
+  m_EditorClassIdentifier: 
+  path: Assets/Teslasuit/HapticAssets/Animations/WindFX.haptic_asset
+  bytes: 370003006964002f416e696d6174696f6e2f57696e642053616d706c652000747970650066780076657273696f6e00302e322e332e30002f416e696d6174696f6e2f57696e642053616d706c6520000100000000000000803fc3f5a83e0000803fc3f5283f0000803f0000803f0000803f01000000000006adbe3eabaaaa3e81b5063faaaa2a3f2a3e563f0000803f0000803f010000000000cccccc3eabaaaa3e4012ee3eaaaa2a3f4acf6b3f0000803f0000803f0100000000000000003fc3f5a83e0000003fc3f5283f0000003f0000803f0000003f
+  is_static: 0
+  is_looped: 0
