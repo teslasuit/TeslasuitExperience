@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 0c05eb1ff7d41414fafae15d6cd0094f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: CenterFlore
+    100006: Cylinder001
+    100008: //RootNode
+    100010: Line001
+    100012: Line002
+    100014: Rectangle001
+    100016: Flore
+    100018: Roof
+    400000: Box001
+    400002: Box002
+    400004: CenterFlore
+    400006: Cylinder001
+    400008: //RootNode
+    400010: Line001
+    400012: Line002
+    400014: Rectangle001
+    400016: Flore
+    400018: Roof
+    2100000: Flore
+    2100002: Stucco White
+    2100004: Venetian Plaster Poised Taupe
+    2100006: Wall_Front
+    2100008: Roof_Lights
+    2100010: FloreLight
+    2100012: Screen
+    2100014: FrontWallDecor
+    2100016: CenterCircle
+    2100018: CenterCircleLight
+    2100020: CircleFlore
+    2100022: StoneTable
+    2100024: 'Material #137'
+    2300000: Box001
+    2300002: Box002
+    2300004: CenterFlore
+    2300006: Cylinder001
+    2300008: Line001
+    2300010: Line002
+    2300012: Rectangle001
+    2300014: Flore
+    2300016: Roof
+    3300000: Box001
+    3300002: Box002
+    3300004: CenterFlore
+    3300006: Cylinder001
+    3300008: Line001
+    3300010: Line002
+    3300012: Rectangle001
+    3300014: Flore
+    3300016: Roof
+    4300000: Box001
+    4300002: Rectangle001
+    4300004: Line001
+    4300006: Cylinder001
+    4300008: CenterFlore
+    4300010: Box002
+    4300012: Line002
+    4300014: Flore
+    4300016: Roof
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CenterCircle
+    second: {fileID: 2100000, guid: 378ba578f7b7e5846971a3ec6a3d9f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CenterCircleLight
+    second: {fileID: 2100000, guid: e0d691a8ade3f95409fee57b6f076d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CircleFlore
+    second: {fileID: 2100000, guid: c3a1b0e19007b04468c430cf6ef04914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flore
+    second: {fileID: 2100000, guid: de9e05852eb6ef348893228c88f3ddb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloreLight
+    second: {fileID: 2100000, guid: 2019db811ddb865498822e41b6c356cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontWallDecor
+    second: {fileID: 2100000, guid: 48328a088d05a7d45bdd17171b55dc4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #137'
+    second: {fileID: 2100000, guid: 03fe45daf7f5d7c498812d788fbba79e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 3eff0176340d20d46a1ab7bd7d34a495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Lights
+    second: {fileID: 2100000, guid: 493aa0e5693317c49b613af55fd13f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen
+    second: {fileID: 2100000, guid: 13face63f711bfd469ab9c7375f4a137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneTable
+    second: {fileID: 2100000, guid: ef898a25e1b4bcc458aba675f8bdc3dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stucco White
+    second: {fileID: 2100000, guid: 7c4b559442914054eb52017832f53142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Venetian Plaster Poised Taupe
+    second: {fileID: 2100000, guid: 813ecb48542cef040b102017bf2fc61b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Front
+    second: {fileID: 2100000, guid: f07517a1f367187498b207769d2d7cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 97611f7c5a7716c4da1d3acbcc94748f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 18
+    secondaryUVAreaDistortion: 33
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 2
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
