@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: d45e522fad3f9694b8c3ae19c768d856
+timeCreated: 1470839068
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolt
+    100002: Bolt2
+    100004: Box001
+    100006: Box005
+    100008: Box007
+    100010: ConsleR
+    100012: //RootNode
+    100014: ConsoleCenter
+    100016: ConsoleL
+    100018: Cylinder011
+    100020: Cylinder012
+    100022: Cylinder013
+    100024: Cylinder014
+    100026: Cylinder015
+    100028: Cylinder017
+    100030: Cylinder018
+    100032: Cylinder076
+    100034: Derjatel1
+    100036: Derjatel2
+    100038: Line014
+    100040: Menu
+    100042: Object001
+    100044: RootPlanet
+    100046: RootPlanet001
+    100048: Screen
+    100050: ScreenLConsole
+    100052: ScreenLConsole001
+    100054: ScreenLeft
+    100056: ScreenRConsole
+    100058: ScreenRConsole001
+    100060: tire
+    100062: tire2
+    100064: TiresFlore
+    400000: Bolt
+    400002: Bolt2
+    400004: Box001
+    400006: Box005
+    400008: Box007
+    400010: ConsleR
+    400012: //RootNode
+    400014: ConsoleCenter
+    400016: ConsoleL
+    400018: Cylinder011
+    400020: Cylinder012
+    400022: Cylinder013
+    400024: Cylinder014
+    400026: Cylinder015
+    400028: Cylinder017
+    400030: Cylinder018
+    400032: Cylinder076
+    400034: Derjatel1
+    400036: Derjatel2
+    400038: Line014
+    400040: Menu
+    400042: Object001
+    400044: RootPlanet
+    400046: RootPlanet001
+    400048: Screen
+    400050: ScreenLConsole
+    400052: ScreenLConsole001
+    400054: ScreenLeft
+    400056: ScreenRConsole
+    400058: ScreenRConsole001
+    400060: tire
+    400062: tire2
+    400064: TiresFlore
+    2300000: Bolt
+    2300002: Bolt2
+    2300004: Box005
+    2300006: ConsleR
+    2300008: ConsoleCenter
+    2300010: ConsoleL
+    2300012: Cylinder011
+    2300014: Cylinder012
+    2300016: Cylinder013
+    2300018: Cylinder014
+    2300020: Cylinder015
+    2300022: Cylinder017
+    2300024: Cylinder018
+    2300026: Cylinder076
+    2300028: Derjatel1
+    2300030: Derjatel2
+    2300032: Line014
+    2300034: Object001
+    2300036: RootPlanet
+    2300038: RootPlanet001
+    2300040: Screen
+    2300042: ScreenLConsole
+    2300044: ScreenLConsole001
+    2300046: ScreenLeft
+    2300048: ScreenRConsole
+    2300050: ScreenRConsole001
+    2300052: tire
+    2300054: tire2
+    2300056: TiresFlore
+    3300000: Bolt
+    3300002: Bolt2
+    3300004: Box005
+    3300006: ConsleR
+    3300008: ConsoleCenter
+    3300010: ConsoleL
+    3300012: Cylinder011
+    3300014: Cylinder012
+    3300016: Cylinder013
+    3300018: Cylinder014
+    3300020: Cylinder015
+    3300022: Cylinder017
+    3300024: Cylinder018
+    3300026: Cylinder076
+    3300028: Derjatel1
+    3300030: Derjatel2
+    3300032: Line014
+    3300034: Object001
+    3300036: RootPlanet
+    3300038: RootPlanet001
+    3300040: Screen
+    3300042: ScreenLConsole
+    3300044: ScreenLConsole001
+    3300046: ScreenLeft
+    3300048: ScreenRConsole
+    3300050: ScreenRConsole001
+    3300052: tire
+    3300054: tire2
+    3300056: TiresFlore
+    4300000: ConsoleCenter
+    4300002: Cylinder017
+    4300004: Cylinder018
+    4300006: Cylinder015
+    4300008: Cylinder011
+    4300010: Cylinder013
+    4300012: Cylinder012
+    4300014: Cylinder014
+    4300016: ConsleR
+    4300018: ScreenRConsole
+    4300020: ConsoleL
+    4300022: ScreenLConsole
+    4300024: tire2
+    4300026: tire
+    4300028: Derjatel1
+    4300030: Bolt
+    4300032: Derjatel2
+    4300034: Bolt2
+    4300036: Object001
+    4300038: Box005
+    4300040: ScreenLeft
+    4300042: Line014
+    4300044: Screen
+    4300046: RootPlanet
+    4300048: TiresFlore
+    4300050: Cylinder076
+    4300052: RootPlanet001
+    4300054: ScreenRConsole001
+    4300056: ScreenLConsole001
+    7400000: Idleclose
+    7400002: open
+    7400004: idleOpen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idleclose
+      takeName: SceneMenuOBJ-v3
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: ConsleR
+        weight: 1
+      - path: ConsleR/ScreenRConsole
+        weight: 1
+      - path: ConsoleCenter
+        weight: 1
+      - path: ConsoleL
+        weight: 1
+      - path: ConsoleL/ScreenLConsole
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder076
+        weight: 1
+      - path: Derjatel1
+        weight: 1
+      - path: Derjatel1/Bolt
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/Line014
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/ScreenLeft
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Screen
+        weight: 1
+      - path: Menu
+        weight: 1
+      - path: RootPlanet
+        weight: 1
+      - path: RootPlanet001
+        weight: 1
+      - path: ScreenLConsole001
+        weight: 1
+      - path: ScreenRConsole001
+        weight: 1
+      - path: tire
+        weight: 1
+      - path: tire2
+        weight: 1
+      - path: TiresFlore
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open
+      takeName: SceneMenuOBJ-v3
+      firstFrame: 2
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: ConsleR
+        weight: 1
+      - path: ConsleR/ScreenRConsole
+        weight: 1
+      - path: ConsoleCenter
+        weight: 1
+      - path: ConsoleL
+        weight: 1
+      - path: ConsoleL/ScreenLConsole
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder076
+        weight: 1
+      - path: Derjatel1
+        weight: 1
+      - path: Derjatel1/Bolt
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/Line014
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/ScreenLeft
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Screen
+        weight: 1
+      - path: Menu
+        weight: 1
+      - path: RootPlanet
+        weight: 1
+      - path: RootPlanet001
+        weight: 1
+      - path: ScreenLConsole001
+        weight: 1
+      - path: ScreenRConsole001
+        weight: 1
+      - path: tire
+        weight: 1
+      - path: tire2
+        weight: 1
+      - path: TiresFlore
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idleOpen
+      takeName: SceneMenuOBJ-v3
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: ConsleR
+        weight: 1
+      - path: ConsleR/ScreenRConsole
+        weight: 1
+      - path: ConsoleCenter
+        weight: 1
+      - path: ConsoleL
+        weight: 1
+      - path: ConsoleL/ScreenLConsole
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder076
+        weight: 1
+      - path: Derjatel1
+        weight: 1
+      - path: Derjatel1/Bolt
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/Line014
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Box005/ScreenLeft
+        weight: 1
+      - path: Derjatel1/Bolt/Derjatel2/Bolt2/Object001/Screen
+        weight: 1
+      - path: Menu
+        weight: 1
+      - path: RootPlanet
+        weight: 1
+      - path: RootPlanet001
+        weight: 1
+      - path: ScreenLConsole001
+        weight: 1
+      - path: ScreenRConsole001
+        weight: 1
+      - path: tire
+        weight: 1
+      - path: tire2
+        weight: 1
+      - path: TiresFlore
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
